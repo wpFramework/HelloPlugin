@@ -6,7 +6,7 @@
 	"type"             : "wordpress-plugin",
 	"authors"          : [
 		{
-			"name" : "Dusan Hudak",
+			"name" : "Dusan Hudak"
 		}
 	],
 	"require"          : {
