@@ -1,4 +1,4 @@
-=== MSP Hello World ===
+=== MSP Hello World ===xxxxxxxxxxxxxxx
 Contributors: authornick (this should be a list of wordpress.org userid's)
 Donate link: http://authorsite.com/msp-helloworld
 Tags: keywords, list
