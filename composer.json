@@ -1,0 +1,18 @@
+{
+	"name"             : "wpFramework/HelloPlugin",
+	"description"      : "HelloPlugin for Wordpress",
+	"minimum-stability": "dev",
+	"license"          : "GPL-2.0+",
+	"type"             : "wordpress-plugin",
+	"authors"          : [
+		{
+			"name" : "Dusan Hudak",
+		}
+	],
+	"require"          : {
+		"composer/installers": "~1"
+	}
+	"extra"            : {
+		"wordpress-install-dir": "vendor/wpFramework/HelloPlugin"
+	}
+}
